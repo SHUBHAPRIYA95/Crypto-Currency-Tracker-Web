@@ -4,4 +4,4 @@ Fetch live APIs from cryptonators using Axios.
 Auto price and other data update without refreshing in every 30 seconds.
 The UI is mobile as well as desktop responsive.
 
-Take a look at live version: http://127.0.0.1:5500/index.html
+Your site is live at https://shubhapriya95.github.io/Crypto-Currency-Tracker-Web/
